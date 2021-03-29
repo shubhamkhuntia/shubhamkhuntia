@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hey 👋, This is Shubham Khuntia
+[![Gmail Badge](https://img.shields.io/badge/-shubhamkhuntia786@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shubhamkhuntia786@gmail.com)](mailto:shubhamkhuntia786@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-shubhamkhuntia-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamkhuntia/)](https://www.linkedin.com/in/shubhamkhuntia/) [![Github Badge](https://img.shields.io/badge/-shubhamkhuntia-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shubhamkhuntia/)](https://www.github.com/shubhamkhuntia/) [![Twitter Badge](https://img.shields.io/badge/-shubhamkhuntia-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/shubhamkhuntia/)](https://www.twitter.com/shubhamkhuntia/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sotly.co/gvjfl55z/)](https://sotly.co/gvjfl55z/) <p align='left'>I am an undergraduate student at KIIT University specializing in Electronics and Computer Science . I am looking for fulltime opportunities . I am a full-stack web developer .</p><p align='left'> You can view my resume <a href='https://sotly.co/Z4RAQoi5 ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=shubhamkhuntia alt=shubhamkhuntia /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamkhuntia&show_icons=true&include_all_commits=true)](https://github.com/shubhamkhuntia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkhuntia&layout=compact)](https://github.com/shubhamkhuntia/github-readme-stats)
+
 
 <!--
 **shubhamkhuntia/shubhamkhuntia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
