@@ -1,24 +1,24 @@
-## Hey 👋, This is Shubham Khuntia
-[![Gmail Badge](https://img.shields.io/badge/-shubhamkhuntia786@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shubhamkhuntia786@gmail.com)](mailto:shubhamkhuntia786@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-shubhamkhuntia-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamkhuntia/)](https://www.linkedin.com/in/shubhamkhuntia/) [![Github Badge](https://img.shields.io/badge/-shubhamkhuntia-grey?style=flat&logo=github&logoColor=white&link=https://github.com/shubhamkhuntia/)](https://www.github.com/shubhamkhuntia/) [![Twitter Badge](https://img.shields.io/badge/-shubhamkhuntia-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/shubhamkhuntia/)](https://www.twitter.com/shubhamkhuntia/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://sotly.co/gvjfl55z/)](https://sotly.co/gvjfl55z/) <p align='left'>I am an undergraduate student at KIIT University specializing in Electronics and Computer Science . I am looking for fulltime opportunities . I am a full-stack web developer .</p><p align='left'> You can view my resume <a href='https://sotly.co/Z4RAQoi5 ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=shubhamkhuntia alt=shubhamkhuntia /> </p>
+### Hi there 👋, my name is Shubham Khuntia
+#### I am a developer and tech enthusiast.
+![I am a developer and tech enthusiast.](https://raw.githubusercontent.com/shubhamkhuntia/shubhamkhuntia/main/banner.png)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamkhuntia&show_icons=true&include_all_commits=true)](https://github.com/shubhamkhuntia/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkhuntia&layout=compact)](https://github.com/shubhamkhuntia/github-readme-stats)
+I love searching and knowing about different technologies. I like exploring a lot.
+
+Skills: NODE JS / REACT / JS / HTML / CSS / GOOGLE CLOUD / JAVA / PYTHON / C++ / BOOTSTRAP / EJS 
+
+- 🔭 I’m currently working on creating a platform to facilitate acessibilty to lecture notes of college . 
+- 🌱 I’m currently learning JAVA and REACTJS 
+- 📫 How to reach me: shubhamkhuntia786@gmail.com 
+- 😄 Pronouns: He 
+- ⚡ Fun fact: I love gathering resources. 
 
 
-<!--
-**shubhamkhuntia/shubhamkhuntia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shubhamkhuntia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shubhamkhuntia/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shubham.khuntia.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shubhamkhuntia/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shubhamkhuntia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shubhamkhuntia.github.io/)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkhuntia)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamkhuntia&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhamkhuntia)  
+
+![Profile views](https://gpvc.arturio.dev/shubhamkhuntia)  
