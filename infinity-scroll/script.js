@@ -17,7 +17,7 @@ function imageLoaded(){
     if(loaded === totalimages){
         ready = true;
         loader.hidden = true;
-        count=30;
+        count=8;
     }
 }
 
