@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Shubham Khuntia
 #### I am a developer and tech enthusiast.
-![I am a developer and tech enthusiast.](https://raw.githubusercontent.com/shubhamkhuntia/shubhamkhuntia/1dd596bfb06ab60f4ef97754077b0b7b638af78f/Shubhamkhuntia_banner.svg)
+![I am a developer and tech enthusiast.]
+<!-- (https://raw.githubusercontent.com/shubhamkhuntia/shubhamkhuntia/1dd596bfb06ab60f4ef97754077b0b7b638af78f/Shubhamkhuntia_banner.svg) -->
 
 I love searching and knowing about different technologies. I like exploring a lot.
 
