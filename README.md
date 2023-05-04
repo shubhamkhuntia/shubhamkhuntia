@@ -5,7 +5,7 @@
 
 I love searching and knowing about different technologies. I like exploring a lot.
 
-Skills: NODE JS / REACT / JS / HTML / CSS / GOOGLE CLOUD / JAVA / PYTHON / C++ / BOOTSTRAP / EJS 
+Skills: NODE JS / REACT / JS / JAVA / EJS / Git / 
 
 - 🔭 I’m currently working on creating a platform to facilitate acessibilty to lecture notes of college . 
 - 🌱 I’m currently learning JAVA and REACTJS 
