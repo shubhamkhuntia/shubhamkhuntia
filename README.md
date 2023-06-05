@@ -22,4 +22,4 @@ Skills: NODE JS / REACT / JS / JAVA / EJS / Git /
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shubhamkhuntia)  
 
-![Profile views](https://gpvc.arturio.dev/shubhamkhuntia)  
+
