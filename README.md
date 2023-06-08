@@ -5,9 +5,9 @@
 
 I love searching and knowing about different technologies. I like exploring a lot.
 
-Skills: NODE JS / REACT / JS / JAVA / EJS / Git / 
+Skills: NodeJS / REACT / JS / JAVA / EJS / Git / 
 
-- 🔭 I’m currently working on creating a platform to facilitate acessibilty to lecture notes of college . 
+- 🔭 I’m currently working on creating a backend application for FLight Booking . 
 - 🌱 I’m currently learning JAVA and REACTJS 
 - 📫 How to reach me: shubhamkhuntia786@gmail.com 
 - 😄 Pronouns: He 
