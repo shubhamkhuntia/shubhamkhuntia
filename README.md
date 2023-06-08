@@ -8,7 +8,7 @@ I love searching and knowing about different technologies. I like exploring a lo
 Skills: NodeJS / REACT / JS / JAVA / EJS / Git / 
 
 - 🔭 I’m currently working on creating a backend application for FLight Booking . 
-- 🌱 I’m currently learning JAVA and REACTJS 
+- 🌱 I’m currently learning back-end technologies.
 - 📫 How to reach me: shubhamkhuntia786@gmail.com 
 - 😄 Pronouns: He 
 - ⚡ Fun fact: I love gathering resources. 
