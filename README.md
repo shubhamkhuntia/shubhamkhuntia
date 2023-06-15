@@ -10,7 +10,7 @@ Skills: NodeJS / REACT / JS / JAVA / EJS / Git /
 - 🔭 I’m currently working on creating a backend application for FLight Booking . 
 - 🌱 I’m currently learning back-end technologies.
 - 📫 How to reach me: shubhamkhuntia786@gmail.com 
-- 😄 Pronouns: He 
+- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I love gathering resources. 
 
 
